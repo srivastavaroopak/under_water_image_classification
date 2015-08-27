@@ -506,22 +506,3 @@ print "n_leafs=  "+str(n_leafs)+"\n"
 print "max_depth=  "+str(max_depth)+"\n"        
 print "n_nodes=  "+str(n_nodes)+"\n"        
 print "tot_iter=  "+str(tot_iter)+"\n"        
-        
-    
-    
-        
-    
-    
-    
-        
-        
-    
-    
-    
-    
- 
- 
- 
- 
- 
- 
